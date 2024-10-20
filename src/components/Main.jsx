@@ -1,5 +1,5 @@
 import Welcom from "./Welcom";
-import Imside from "./Imsidebar"
+import Imside from "./Image"
 
 export default function Main() {
   return (
